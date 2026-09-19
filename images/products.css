@@ -1,0 +1,29 @@
+* {
+    padding-top: 2px;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: hwb(0 100% 0%);
+    color: #222222;
+}
+
+.nav-bar .logo {
+    margin: 10px;
+    color: rgb(255, 149, 0);
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 24px;
+    padding: 5px;
+    margin-left: 30px;
+}
+
+.logo:hover {
+    background-color: #ff3700;
+    color: white;
+    border-radius: 5px;
+}
+
+.nav-bar .logo span {
+    color: #00B3FF;
+}
